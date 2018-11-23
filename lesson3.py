@@ -59,3 +59,4 @@ b = int(input('Введите завершающий элемент: '))
 print(fibonacci(a, b))
 
 
+
